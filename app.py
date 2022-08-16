@@ -88,7 +88,7 @@ if st.button("Predict Expression"):
   result=import_and_predict(image)
   st.success('Model has predicted the image expression is   {}'.format(result))
 if st.button("About"):
-  st.header(" Sudhanshu Sharma")
+  st.header("Yash Sankhla")
   st.subheader("Student, Department of Computer Engineering")
   
 html_temp = """
